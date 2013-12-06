@@ -5,17 +5,6 @@ A twitter bot based on 'reply' for NodeJS.
 
 ##Usage:
 
-####Prerequisites:
-
-Create a twitter app:
-
-- go to https://dev.twitter.com/
-- sign in with an account or create one (¡WARNING: YOU MAY FLOOD TWITTER WITH TWEETS FROM THIS ACCOUNT. BE CAREFUL!)
-- add a new application
-- go to the settings for the app, and set it to "Read & Write" Access
-- go to the application credentials page and generate an access token in the "Your access token" section
-
-you'll use the tokens from this page later. Keep it open.
 
 ####Local Setup:
 
