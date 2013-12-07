@@ -3,13 +3,11 @@ Twitter Reply
 
 A twitter bot based on 'reply' for NodeJS.
 
-##Usage:
-
-
 ####Local Setup:
 
 All that you need to do is create a new file named runtime.js inside the config folder, and update this:
-    {
+
+{
       "twitter" : {
         "consumer_key" : "<your consumer key>",
         "consumer_secret" : "<your consumer key>",
@@ -26,3 +24,5 @@ All that you need to do is create a new file named runtime.js inside the config 
     }
 
 This code is based on: Jesse Ditson's reply bot running on NodeJS
+
+Currently being maintained by Karthik K and Swaathi K
