@@ -8,8 +8,8 @@ A twitter bot based on 'reply' for NodeJS.
 All that you need to do is create a new file named runtime.js inside the config folder, and update this:
 
     '''
-{
-      "twitter" : {
+    {
+    "twitter" : {
         "consumer_key" : "<your consumer key>",
         "consumer_secret" : "<your consumer key>",
         "access_token_key" : "<your access token>",
