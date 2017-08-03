@@ -6,7 +6,7 @@
     "access_token_secret" : "	eIeWXxWfOgHbedj1u7215zlpyqlAzHfQ2zCCQP0uTFxRj"
   },
   "keywords" : "need hug",
-  "match" : "need hug",
+  "match" : "match" : "a string or regex. (capture groups are allowed)",
   "replies" : [
     "*HUGS YOU TIGHTLY*"
   ],
