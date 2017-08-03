@@ -5,11 +5,11 @@
     "access_token_key" : "	893162196611375104-9ateNK2G7j8OayJ26VYjwn0JX4KMCXT",
     "access_token_secret" : "	eIeWXxWfOgHbedj1u7215zlpyqlAzHfQ2zCCQP0uTFxRj"
   },
-  "keywords" : "need, hug",
+  "keywords" : "need hug",
   "match" : "need hug",
   "replies" : [
-    "*HUGS YOU TIGHTLY*", "*HUUUUUUUUUUUUUUUUGS FOR YOU*", "*HUGGING YOU SO TIGHT RIGHT NOW*"
+    "*HUGS YOU TIGHTLY*"
   ],
-  "max_replies_per_minute" : 6,
+  "max_replies_per_minute" : 21,
   "in_reply_to" : true
 }
